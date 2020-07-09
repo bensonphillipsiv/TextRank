@@ -1,1 +1,0 @@
-var stopWords = ["the", "a"];
